@@ -1,3 +1,12 @@
+/**********************************************************
+*  PEMROGRAMAN C++                                        *
+*                                                         *
+*  Author  : Gesa Rizky Nugraha                           *
+*  Email   : gesarizkynugraha@gmail.com                   *
+*                                                         *
+*  Website : karenabelajar.blogspotcom                    *
+*                                                         *
+***********************************************************/
 #include <stdio.h>
 #include <string.h>
 
